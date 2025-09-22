@@ -1,0 +1,8 @@
+<intents>
+    <intent name="greeting">
+        <response>Hello! How can I assist you today?</response>
+    </intent>
+    <intent name="fallback">
+        <response>I'm sorry, I didn't understand that. Could you rephrase?</response>
+    </intent>
+</intents>
