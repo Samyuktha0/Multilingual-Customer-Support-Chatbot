@@ -1,0 +1,12 @@
+multilingual-chatbot/
+├── backend/
+│   ├── app.py
+│   ├── intents.xml
+│   └── database.sql
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── config/
+│   └── settings.xml
+├── README.md
